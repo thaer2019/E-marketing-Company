@@ -1,0 +1,33 @@
+/*
+colors:
+blue: #253342
+red:#9e4040
+gray: #cccccc
+light-gray: f2f4f4
+lighr-blue; #6aa4b8
+*/
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+#container {
+ width: 100%;
+    margin: auto;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    font-size:38px; 
+}

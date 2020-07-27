@@ -1,0 +1,49 @@
+@import url(menu.css);
+@import url(hero.css);
+@import url(about.css);
+@import url(our-services.css);
+@import url(footer.css);
+@import url(video.css);
+
+#contact{
+    text-align: center;
+    background-color: #f2f4f4;
+    padding: 50px 0;
+    height: 650px;
+    
+}
+.col-2 {
+    width: 50%;
+    float:left;
+}
+
+input[type="text"]{
+    background: white;
+    width: 25%;
+    height: 40px;
+    border: 1px solid #999;
+    border-radius: 15px;
+    margin: 5px 0;
+    direction: ltr;
+    padding: 0 20px;
+    font-size: 14px;
+    font-weight: bold;
+
+    
+}
+
+textarea{
+    background: white;
+    height: auto;
+    width: 25%;
+    border: 1px solid #999;
+    border-radius: 15px;
+    margin: 5px 0;
+    direction: ltr;
+    padding: 0 20px;
+    font-size: 14px;
+    font-weight: bold;
+    
+    
+}
+

@@ -1,0 +1,71 @@
+.row {
+    width: 100%;
+    margin: 50 auto;
+    margin-left: 20px;
+}
+.row1{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.Our-Services {
+    background-color:#253342;
+    text-align: center;
+    color:  #cccccc;
+    padding-top: 5px;
+}
+.our-services h1{
+    color: #cccccc;
+}
+
+
+
+.col-3 {
+    
+    border: 2px solid  #cccccc;
+    width: 31%;
+    float: left;
+    margin-right: 1%;
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+
+.call-left{
+    margin-left: 1%;
+}
+.tut-header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.col-3 img{
+ border: 1px white solid;   
+    border-radius: 15px;
+    box-shadow: 0px 10px black;
+    width: 100%;
+    max-width: 260px;
+}
+
+
+
+.cta.our-services {
+    width: 190px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    box-shadow: 0 5px black;
+    border: none;
+    cursor: pointer;
+    transition-duration:0.05s; 
+    
+}
+.cta:active{
+box-shadow: 0px 0px #666;
+    transform: translateY(5px)
+        
+    
+}

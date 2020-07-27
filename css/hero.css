@@ -1,0 +1,7 @@
+/*تنسيق الصوره الرئيسيه*/
+
+#hero {
+   height:500px;
+    background: #6aa4b8 url(../imgs/hero-img.jpg) no-repeat center -60px;
+    margin-bottom: 60px;
+}
